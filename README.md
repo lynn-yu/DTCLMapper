@@ -2,7 +2,7 @@
 
 ## Motivation
 <div align=center>
-<img src="https://github.com/lynn-yu/DTCLMapper/blob/main/img22.pdf" >
+<img src="https://github.com/lynn-yu/DTCLMapper/blob/main/framework.png" >
 </div>
 
 
