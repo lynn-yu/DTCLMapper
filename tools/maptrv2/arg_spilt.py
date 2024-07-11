@@ -1,0 +1,2 @@
+TRAIN_SCENES=[]
+VAL_SCENES=[]
