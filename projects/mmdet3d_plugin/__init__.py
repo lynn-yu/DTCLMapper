@@ -9,5 +9,5 @@ from .models.backbones.vovnet import VoVNet
 from .models.utils import *
 from .models.opt.adamw import AdamW2
 from .bevformer import *
-from .maptr import *
+from .DTCLMapper import *
 from .models.backbones.efficientnet import EfficientNet
