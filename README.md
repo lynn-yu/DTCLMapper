@@ -17,7 +17,7 @@ instances in single-frame maps, we introduce a novel method, DTCLMapper. This ap
 2024.08 Update
 
 ### Data
-Download  [nuScenes dataset](https://www.nuscenes.org/) and [Argoverse2](https://www.argoverse.org/). And change the dataset path in the code.
+Download  [nuScenes](https://www.nuscenes.org/) and [Argoverse2](https://www.argoverse.org/). And change the dataset path in the code.
 
 ### Environment
 Following install.md
