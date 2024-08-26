@@ -1,4 +1,5 @@
 # DTCLMapper
+DTCLMapper: Dual Temporal Consistent Learning for Vectorized HD Map Construction  [[PDF]]([https://arxiv.org/pdf/2407.02182](https://arxiv.org/pdf/2405.05518)), IEEE T-ITS, 2024.
 
 ## Motivation
 <div align=center>
@@ -32,4 +33,15 @@ The code framework of this project is based on ![MapTR](https://github.com/hustv
 
 Feel free to contact me if you have additional questions or have interests in collaboration. Please drop me an email at  lsynn@hnu.edu.cn
 
+##$ 🤝 Publication:
+Please consider referencing this paper if you use the ```code``` from our work.
+Thanks a lot :)
 
+```
+@article{li2024dtclmapper,
+  title={DTCLMapper: Dual Temporal Consistent Learning for Vectorized HD Map Construction},
+  author={Li, Siyu and Lin, Jiacheng and Shi, Hao and Zhang, Jiaming and Wang, Song and Yao, You and Li, Zhiyong and Yang, Kailun},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  year={2024}
+}
+```
