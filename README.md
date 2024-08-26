@@ -1,5 +1,5 @@
 # DTCLMapper
-DTCLMapper: Dual Temporal Consistent Learning for Vectorized HD Map Construction  [[PDF]]([https://arxiv.org/pdf/2407.02182](https://arxiv.org/pdf/2405.05518)), IEEE T-ITS, 2024.
+DTCLMapper: Dual Temporal Consistent Learning for Vectorized HD Map Construction [[PDF]](https://arxiv.org/pdf/2405.05518)), IEEE T-ITS, 2024.
 
 ## Motivation
 <div align=center>
