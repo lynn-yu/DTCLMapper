@@ -33,7 +33,7 @@ The code framework of this project is based on ![MapTR](https://github.com/hustv
 
 Feel free to contact me if you have additional questions or have interests in collaboration. Please drop me an email at  lsynn@hnu.edu.cn
 
-##$ 🤝 Publication:
+### 🤝 Publication:
 Please consider referencing this paper if you use the ```code``` from our work.
 Thanks a lot :)
 
