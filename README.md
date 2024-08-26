@@ -27,7 +27,7 @@ Following install.md
 ./tools/dist_train.sh --config ./projects/configs/DTCLMapper/v2maptr_tiny_r50_24e.py 
 
 ### Acknowledgement
-The code framework of this project is based on ![MapTR](https://github.com/hustvl/MapTR), thanks to this excellent work.
+The code framework of this project is based on [MapTR](https://github.com/hustvl/MapTR), thanks to this excellent work.
 
 ### Contact
 
